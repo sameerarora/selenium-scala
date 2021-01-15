@@ -1,0 +1,81 @@
+{
+  "custom": {
+    "dimensions": [
+      {
+        "MessageType": "EventLog"
+      },
+      {
+        "Properties": "{\"UserHomeClub\":\"pfx:clubs:6c206032-c285-11e8-8732-bdf695c61eb7\",\"Trigger\":\"DashboardOnAppear\",\"PfxUserId\":\"pfx:users:39c95a0f-ceff-11e9-b918-cd2d4189ef5a\",\"UserMembershipType\":\"BC\"}"
+      },
+      {
+        "AppBuild": "138"
+      },
+      {
+        "AppId": "e55cf771-3870-40f7-adc0-a8c0333c7e97"
+      },
+      {
+        "UserId": "None"
+      },
+      {
+        "AccountId": "None"
+      },
+      {
+        "AppNamespace": "com.planetfitness.lunkinator"
+      },
+      {
+        "AuthProvider": "None"
+      },
+      {
+        "CarrierCountry": "us"
+      },
+      {
+        "CarrierName": "AT&T"
+      },
+      {
+        "CountryCode": "us"
+      },
+      {
+        "EventId": "1eb5fa67-2c1a-49f1-8cd3-e54cf834dab1"
+      },
+      {
+        "IngressTimestamp": "2020-05-13T10:24:05.302Z"
+      },
+      {
+        "Locale": "en_US"
+      },
+      {
+        "OsApiLevel": "None"
+      },
+      {
+        "OsBuild": "17E262"
+      },
+      {
+        "OsName": "iOS"
+      },
+      {
+        "OsVersion": "13.4.1"
+      },
+      {
+        "ScreenSize": "1334x750"
+      },
+      {
+        "SdkName": "appcenter.ios"
+      },
+      {
+        "SdkVersion": "3.1.0"
+      },
+      {
+        "TimeZoneOffset": "-PT5H"
+      },
+      {
+        "WrapperRuntimeVersion": "12.6.0"
+      },
+      {
+        "WrapperSdkName": "appcenter.xamarin"
+      },
+      {
+        "WrapperSdkVersion": "3.1.0"
+      }
+    ]
+  }
+}

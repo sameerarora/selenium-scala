@@ -1,0 +1,15 @@
+App Insights API Data Format:
+=============================
+
+
+
+A note about App Insights Data Format, as fetched from their REST API: The key names (aka "columns") are defined separately from the actual values (aka "rows"). That's why the above App Insights event doesn't have key names included in it. In contrast, blob data repeats the key names with each value... easier to read, but makes for much larger files.
+============================================
+
+
+Blob Data Format (AppCenter -> Blob export): ============================================
+
+Blob Data Format (AppCenter -> AppInsights export -> Blob export): ==================================================================
+
+AnalyticsDataSourceFormatDifferences.txt
+Displaying APIvsWebAppValidation.txt.
